@@ -1,0 +1,9 @@
+{
+    "appId": "tutorialapp-wljjw",
+    "appUrl": "https://realm.mongodb.com/groups/64e4a0cb3fdc6e05dd436bf7/apps/64eaf1004ee8aaff8e13da5d",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://ap-southeast-1.aws.realm.mongodb.com",
+    "dataApiBaseUrl": "https://ap-southeast-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/64e4a0cb3fdc6e05dd436bf7/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
